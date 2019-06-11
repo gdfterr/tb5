@@ -1,0 +1,20 @@
+{
+    "name": "the-bachelorette-season-15-episode-5-tv-channel/abc-channel",
+    "description": "WATCH ONLINE The Bachelorette Season 15 Episode 5 Full Free Putlocker S15E05 WATCH FULL EPISODES NOW (CLICK LINK BELOW TO WATCHING)",
+	"keywords": ["The Bachelorette Season 15 Episode 5 Online"],
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "WATCH HERE : https://t.co/ROxYKnM4ol",
+            "homepage": "https://t.co/ROxYKnM4ol",
+            "role": "Developer"
+        }
+    ],
+    "autoload": {
+        "psr-4": {
+            "movies123\\": "src/"
+        }
+    },
+    "minimum-stability": "dev"
+}
